@@ -5,3 +5,5 @@ ___
 
 Matteo Sostero
 Matteo Coronese
+Jisu Kim
+Luca Insolia
